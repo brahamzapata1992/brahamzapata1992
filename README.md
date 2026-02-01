@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Braham Zapata
 
-<!--
-**brahamzapata1992/brahamzapata1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Full Stack Developer  
+📍 Atlanta, GA  
+🎓 Software Engineering Student  
 
-Here are some ideas to get you started:
+I'm a motivated developer transitioning into tech, building modern web applications with React and Spring Boot. I enjoy creating clean user interfaces and structured backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- MySQL / PostgreSQL
+
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
+- IntelliJ
+
+---
+
+## 📌 Featured Projects
+
+### 🏔 Andean Scapes
+Hotel booking website built with React + Vite.
+
+### 🦷 Clínica Odontológica DH
+Backend system using Spring Boot and REST APIs.
+
+### 🎵 Music Rent
+Full stack e-commerce rental platform.
+
+---
+
+## 📈 Current Focus
+
+- Improving system design skills
+- Writing cleaner, scalable code
+- Preparing for Junior Developer roles in the US
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn: (add your link)
+Email: (add your email)
+
