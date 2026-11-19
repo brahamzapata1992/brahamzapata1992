@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=200&section=header&text=Braham%20Zapata&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%26%20Java&descAlignY=58&descSize=20" alt="Braham Zapata" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=200&section=header&text=Braham%20Zapata&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20and%20Java&descAlignY=58&descSize=20" alt="Braham Zapata" />
 </p>
 
 <p align="center">
   <a href="https://github.com/brahamzapata1992">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Braham+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95+%2B+%F0%9F%90%8D;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+SQL;Certified+Python+Senior+Developer+%F0%9F%90%8D;Building+clean%2C+scalable+web+apps+%F0%9F%9A%80;Open+to+Junior+roles+in+the+US+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Braham+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95+%2B+%F0%9F%90%8D;React+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+SQL;Python+Senior+Developer+%F0%9F%90%8D;Building+clean%2C+scalable+web+apps+%F0%9F%9A%80;Open+to+Junior+roles+in+the+US+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
   </a>
 </p>
 
