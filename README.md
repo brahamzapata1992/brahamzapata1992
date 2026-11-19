@@ -64,14 +64,26 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>💼 Personal Portfolio</h3>
-      <p>Modern, responsive portfolio built with React and deployed on Vercel.</p>
+      <h3>🎈 Halo Arch Co.</h3>
+      <p>Storefront for an event-decor business with a <b>custom design tool</b>: customers upload photos, position them on three arches, add a balloon garland, download a PNG preview and request a quote via WhatsApp.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://brahamzapataportfolio.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-9ece6a?style=for-the-badge" /></a>
-      <a href="https://github.com/brahamzapata1992/Braham-Z-Portfolio"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
+      <a href="https://halo-arch-proyect.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-9ece6a?style=for-the-badge" /></a>
+      <a href="https://github.com/brahamzapata1992/HaloArch_Proyect"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 TechStore</h3>
+      <p>Tech e-commerce with product catalog, cart, checkout, user registration and login, protected routes and an <b>admin panel</b> to manage products. Payments are simulated.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <a href="https://tech-shop-cyan.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-9ece6a?style=for-the-badge" /></a>
+      <a href="https://github.com/brahamzapata1992/TechShop"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="33%" valign="top">
       <h3>🎵 MusicRent</h3>
@@ -84,6 +96,8 @@
       <a href="https://proyecto-final-v2-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-9ece6a?style=for-the-badge" /></a>
       <a href="https://github.com/brahamzapata1992/MusicRent_FullStack"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🦷 Dental Clinic API</h3>
       <p>Spring Boot REST API for managing patients, appointments and authentication. Deployed on Railway.</p>
@@ -94,6 +108,22 @@
       </p>
       <a href="https://clinicaodontologicabackend-production.up.railway.app/"><img src="https://img.shields.io/badge/Live-API-7aa2f7?style=for-the-badge" /></a>
       <a href="https://github.com/brahamzapata1992/Clinica_Odontologica_BackEnd"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💼 Personal Portfolio</h3>
+      <p>Modern, responsive portfolio with dark/light mode, projects, certificates and experience. Deployed on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
+      </p>
+      <a href="https://brahamzapataportfolio.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-9ece6a?style=for-the-badge" /></a>
+      <a href="https://github.com/brahamzapata1992/Braham-Z-Portfolio"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+      <h3>🔭 More coming soon…</h3>
+      <p>Currently building with <b>Python</b> 🐍</p>
+      <a href="https://github.com/brahamzapata1992?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-bb9af7?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
